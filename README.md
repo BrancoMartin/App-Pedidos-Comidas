@@ -1,6 +1,8 @@
-#  Sistema de Pedidos de Comida - C#
+#  Al Toque Roque
 
-Aplicación desarrollada en C# que permite gestionar pedidos de comida mediante consola, simulando el funcionamiento básico de un sistema de pedidos en un local gastronómico.
+## Sistema de Pedidos de Comida
+
+Aplicación desarrollada en C# que permite gestionar pedidos de comida y demas, mediante consola, simulando el funcionamiento básico de un sistema de pedidos en un local gastronómico.
 
 ##  Funcionalidades
 
