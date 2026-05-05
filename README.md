@@ -35,7 +35,7 @@ Este proyecto fue desarrollado como práctica para reforzar conceptos de:
 * Manejo de estructuras de datos
 * Lógica de programación en C#
 
-## 👨‍💻 Autor
+## Autor
 
 Branco Martin
 Técnico en Programación - UTN Rosario
