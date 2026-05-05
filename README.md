@@ -1,6 +1,6 @@
 #  AL TOQUE ROQUE
 
-## Sistema de Pedidos de Comida
+## Sistema de Pedidos de productos
 
 Aplicación desarrollada en C# que permite gestionar pedidos de comida y demas, mediante consola, simulando el funcionamiento básico de un sistema de pedidos en un local gastronómico.
 
