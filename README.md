@@ -1,8 +1,8 @@
-# 🍔 Sistema de Pedidos de Comida - C#
+#  Sistema de Pedidos de Comida - C#
 
 Aplicación desarrollada en C# que permite gestionar pedidos de comida mediante consola, simulando el funcionamiento básico de un sistema de pedidos en un local gastronómico.
 
-## 📌 Funcionalidades
+##  Funcionalidades
 
 * Alta de pedidos
 * Selección de productos
@@ -10,12 +10,12 @@ Aplicación desarrollada en C# que permite gestionar pedidos de comida mediante 
 * Gestión de lista de pedidos
 * Interacción por consola con el usuario
 
-## 🛠️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 * C#
 * .NET
 
-## ▶️ Cómo ejecutar el proyecto
+##  Cómo ejecutar el proyecto
 
 1. Clonar el repositorio:
 
@@ -27,7 +27,7 @@ Aplicación desarrollada en C# que permite gestionar pedidos de comida mediante 
 
 3. Ejecutar el programa desde el archivo principal (`Program.cs`)
 
-## 📚 Objetivo del proyecto
+##  Objetivo del proyecto
 
 Este proyecto fue desarrollado como práctica para reforzar conceptos de:
 
